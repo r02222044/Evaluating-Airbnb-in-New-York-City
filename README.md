@@ -1,5 +1,3 @@
-# Evaluating-Airbnb-in-New-York-City
-
 # AIPI590
 Readme<br />
 Evaluating Airbnb in New York City<br />
@@ -105,3 +103,6 @@ We use this score to indicate the convenience of the Airbnb listings, 0 being le
  ![normalization2](https://github.com/ningyixue/AIPI590/blob/main/normalization_2.png)<br />
 We use this score to indicate the safeness of the Airbnb listings, 0 being least safe and 10 being safest.
 5.	We repeated the previous step, visualization, in order to display the top recommended Airbnb by area. We created an interactive map and added the information on these dataframes on to the map, which allows people to zoom in and zoom out the check the Airbnb listings that they are interested in, while viewing the number of crimes and subway stations nearby.
+
+
+
